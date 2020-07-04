@@ -1,6 +1,6 @@
 {
   "plugin_type": "widget",
-  "name": "Insert HTML for SPAs",
+  "name": "Insert HTML for SPA",
   "edit_page_url": "http://atticandbutton.com",
   "form_schema": [
     {
