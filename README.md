@@ -6,7 +6,7 @@ This extension allows to insert HTML code that persists on SPAs that are able to
 
 The Optimizely feature **_Support for Dynamic Websites_** allows to insert and make changes that persist on Single Page Applications. However, some SPAs update content several times during page load. In addition, Optimizely has a logic that detects if another script is counteracting Optimizely's changes and stops forcing Visual Editor changes to avoid brwoser crashes, overheating and potential endless loops. This results in no custom changes added which makes the customer belive Optimizely is not working.
 
-To overcome these cases this Extension was created. This particulart extension cover "Insert HTML" changes only (you may find other extensions for other cases in the root repository).
+To overcome these cases this Extension was created. This particulart extension covers "**_Insert HTML_**" changes only (you may find other extensions for other cases in the root repository).
 
 ## Install the "_Insert HTML for SPAs for SPAs_" Extension
 
