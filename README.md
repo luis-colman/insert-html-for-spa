@@ -16,7 +16,7 @@ To overcome these cases this Extension was created. This particulart extension c
 
 ![Image description](https://github.com/luis-colman/text-changes-for-spas/blob/master/images/create_extension.png)
 
-3. Copy the content of the file "**_config.json"_**" of the repository [Insert HTML for SPA](https://github.com/luis-colman/insert-html-for-spa/blob/master/config.json).
+3. Copy the content of the file "**_config.json_**" of the repository [Insert HTML for SPA](https://github.com/luis-colman/insert-html-for-spa/blob/master/config.json).
 
 4. Paste the code in the "**_Create Extension From JSON_**" field and click "**_Create Extension_**".
 
