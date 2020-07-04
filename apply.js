@@ -49,8 +49,8 @@ if (vars['selectorField_'+extension.$instance] !== '' && vars['htmlContent_'+ext
     vars['config_'+extension.$instance] = {
       //attributes: true,  // uncomment line if ever needed
       //characterData: true, // uncomment line if ever needed
-      childList: true,
-      //subtree: true
+      //subtree: true // uncomment line if ever needed
+      childList: true
     };
 
     // 6) Mutation Subscriber Function
@@ -60,7 +60,7 @@ if (vars['selectorField_'+extension.$instance] !== '' && vars['htmlContent_'+ext
         // 7) Check if the Page where this change lives is active
         if (optimizely.get('state').getPageStates()[window['page_'+extension.$instance]].isActive) {
 
-          // 8) If the Page where this change lives is active, check if previously inserted HTML is still there if not, re-apply change
+          // 8) If the Page where this change lives is active, check if previously inserted HTML is still there and if not, re-apply change
           if (!document.querySelector('[optly-change-'+extension.$instance+']')) {
             insertHtml();    
           }
