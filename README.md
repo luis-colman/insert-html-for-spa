@@ -8,7 +8,7 @@ The Optimizely feature **_Support for Dynamic Websites_** allows to insert and m
 
 To overcome these cases this Extension was created. This particulart extension covers "**_Insert HTML_**" changes only (you may find other extensions for other cases in the root repository).
 
-## Install the "_Insert HTML for SPAs for SPAs_" Extension
+## Install the "_Insert HTML for SPA_" Extension
 
 1. In your Optimizely account, navigate to "**_Implementation > Extensions_**".
 
