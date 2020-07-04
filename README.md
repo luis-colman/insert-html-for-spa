@@ -24,7 +24,7 @@ To overcome these cases this Extension was created. This particulart extension c
 
 5. If you want to see how the extension is built, simply click the extension name "**_Insert HTML for SPA_**". In the "**_Editable Fields_**" panel, you can see and change the current fields the extension contains. Here you can also see the JavaScript code the extension uses by clicking on "**_Apply JS_**", where adjustments can be made - if needed/desired.
 
-6. Before you can use this extension, you need to enable it. After uploading the JSON file the extension will be in "**_draft_**" state. To enable the extension, navigate to "**_Implementation > Extensions_**" and click the **_..._** icon for the "**_Insert HTML for SPAs for SPA_**" extension and select "**_Enable_**".
+6. Before you can use this extension, you need to enable it. After uploading the JSON file the extension will be in "**_draft_**" state. To enable the extension, navigate to "**_Implementation > Extensions_**" and click the "**_..._**" icon for the "**_Insert HTML for SPAs for SPA_**" extension and select "**_Enable_**".
 
 ![Image description](https://github.com/luis-colman/insert-html-for-spa/blob/master/images/Enable_Inster_HTML_for_SPA.png)
 
