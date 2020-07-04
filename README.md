@@ -12,7 +12,7 @@ To overcome these cases this Extension was created. This particulart extension c
 
 1. In your Optimizely account, navigate to "**_Implementation > Extensions_**".
 
-2. Click Create New... and select "**_Using JSON_**".
+2. Click "**_Create New..._**" and select "**_Using JSON_**".
 
 ![Image description](https://github.com/luis-colman/text-changes-for-spas/blob/master/images/create_extension.png)
 
