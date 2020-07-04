@@ -26,7 +26,7 @@ To overcome these cases this Extension was created. This particulart extension c
 
 6. Before you can use this extension, you need to enable it. After uploading the JSON file the extension will be in "**_draft_**" state. To enable the extension, navigate to "**_Implementation > Extensions_**" and click the **_..._** icon for the "**_Insert HTML for SPAs for SPA_**" extension and select "**_Enable_**".
 
-![Image description](https://github.com/luis-colman/Re-arrage-Extension-for-SPAs/blob/master/Rearrange_Elements_for_SPAs_Screenshot.png)
+![Image description](https://github.com/luis-colman/insert-html-for-spa/blob/master/images/Enable_Inster_HTML_for_SPA.png)
 
 7. To start using your extension in experiments, simply go into the variation where you want to use this extension and click "**_Create_**" (as you normally do for any other visual change).
 
