@@ -49,7 +49,7 @@ if (vars['selectorField_'+extension.$instance] !== '' && vars['htmlContent_'+ext
     vars['config_'+extension.$instance] = {
       //attributes: true,  // uncomment line if ever needed
       //characterData: true, // uncomment line if ever needed
-      //subtree: true // uncomment line if ever needed
+      //subtree: true, // uncomment line if ever needed
       childList: true
     };
 
