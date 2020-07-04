@@ -3,7 +3,7 @@ function onActionApplied(event) {
   window['page_'+extension.$instance] = event.data.pageId;
 }
 
-// Event listener to fire function to capture Page ID
+// Event listener to fire function to capture Page ID (defined above)
 window.optimizely.push({
   'type': 'addListener',
   'filter': {
