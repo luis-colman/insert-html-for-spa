@@ -1,6 +1,6 @@
 # Insert HTML for SPA - Optimizely Extension
 
-This extension allows to insert HTML code that persists on SPAs that are able to flush HTML code injected using the standard "Insert HTML" feature of the Visual Editor.
+This extension allows to insert HTML code that persists on SPAs that are able to flush HTML code injected using the standard "**_Insert HTML_**" feature of the Visual Editor.
 
 ## Background
 
